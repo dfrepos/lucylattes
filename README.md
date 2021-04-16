@@ -1,4 +1,11 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+Versão adaptada do Lucylattes
+- Inclui qualisnovo_2020.csv
+- Remove os antigos
+
+
+
+
+
 # lucyLattes
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2591748.svg)](https://doi.org/10.5281/zenodo.2591748)
