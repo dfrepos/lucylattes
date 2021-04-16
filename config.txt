@@ -5,5 +5,5 @@
 arquivo qualis : novoqualis_2020.csv
 ano inicial para tabulacao de dados : 2010
 ano final para tabulacao de dados : 2021
-calcular indicadores capes 1 para sim 0 para nao : 1
-nome programa pós graduação : Grupo de Pesquisa em Sistemas de Comunicações
+calcular indicadores capes 1 para sim 0 para nao : 0
+nome programa pós graduação : .
